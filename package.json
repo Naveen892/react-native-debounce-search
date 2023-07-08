@@ -1,6 +1,6 @@
 {
   "name": "react-native-debounce-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package is for implementing smooth search funcanility in react native app with debouncing",
   "main": "src/index",
   "scripts": {
